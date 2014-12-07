@@ -15,4 +15,4 @@ Ran 7 tests in 0.036s
 OK
 """
 
-return 0
+exit(0)
